@@ -12,7 +12,7 @@ plugins {
 }
 
 apply plugin: 'application'
-mainClassName = "edu.handong.csee.java.webpagecrawler.WebPageCrawler"
+mainClassName = "edu.handong.csee.webpagecrawler.WebPageCrawler"
 
 dependencies {
     // This dependency is exported to consumers, that is to say found on their compile classpath.
